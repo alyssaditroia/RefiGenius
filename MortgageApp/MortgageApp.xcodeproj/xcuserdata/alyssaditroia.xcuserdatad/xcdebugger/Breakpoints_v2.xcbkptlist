@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C1F2013A-FC85-48E3-A8EF-7DB606284C13"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "65B0F273-AF43-4ADB-AF1B-BF6A2F2BAFE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x7ffa1a9bbdb0">
+            <Locations>
+               <Location
+                  uuid = "65B0F273-AF43-4ADB-AF1B-BF6A2F2BAFE2 - 165dbd994674ae9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftData.PersistentModel.setValue&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftData.PersistentModel&gt;(forKey: Swift.KeyPath&lt;&#x3c4;_0_0, Swift.Optional&lt;&#x3c4;_1_0&gt;&gt;, to: Swift.Optional&lt;&#x3c4;_1_0&gt;) -&gt; ()"
+                  moduleName = "SwiftData"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
